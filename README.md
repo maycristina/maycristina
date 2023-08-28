@@ -1,5 +1,5 @@
-<h3> Olá, mundo!  👋</h3> 
-<p>Eu sou Mayara Cristina, atualmente trabalho como UI/UX Designer. <br>E estou aprendendo tecnologias front-end. 
+<h3> Bem-vindos! 👋</h3> 
+<p>Sou Mayara, uma UX/UI front-end apaixonada por criar experiências memoráveis para o mundo digital. Com formação em publicidade e desenvolvimento web, minha jornada têm sido marcada pela construção de soluções criatividas para empresas através da estética, código e estratégia. Passei por empresas de diversos segmentos, atuando como designer gráfico e web design. Neste espaço, publico um pouco do meu aprendizado. 
 </p>
 
 <div>
